@@ -1,5 +1,6 @@
 Petra/*
 Ostatni/*
 *.mscz,
+.mscbackup/
 .*
 
