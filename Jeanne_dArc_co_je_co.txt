@@ -1,0 +1,22 @@
+Jeanne_dArc_original.mscz
+	- originál od 4tet, přesný přepis Péti PDF do Musescore
+
+Jeanne_dArc_original_A3.pdf
+	- tisk předchozího do formátu A3, kvůli zhuštění
+
+Jeanne_dArc_original_print.pdf
+	- samotné zhuštění, zmenšení A3 -> A4
+
+Jeanne_dArc_jen_noty.mscz
+	- stejná verze, jen beze slov - chtěli jsme zkusit slova Bright Eyes
+
+Jeanne_dArc_pokus.mscz
+Jeanne_dArc_pokus.pdf
+	- nějaké moje pokusy o úpravu, nepoužité
+
+Jeanne_dArc.mscz
+Jeanne_dArc.pdf 
+    - oficiální verze Souhlasu 2018 je uložena pod "Souhlas\Písničky\Jeanne Darc\Johanka.mscz"
+		- oproti originálu jen posunutá o jeden tón dolů
+		- začátky slok jako "z horkých polen jde žár" a "nachem barví se kříž" jsou přehozené do jiného hlasu, ale to je detail
+	- tahle verze z ní vychází, chci jen upravit dynamiku.
