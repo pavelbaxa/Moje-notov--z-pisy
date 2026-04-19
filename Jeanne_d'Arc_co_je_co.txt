@@ -1,0 +1,23 @@
+Jeanne_d'Arc_ceska_slova.mscz
+	- originál od 4tet, přesný přepis Péti PDF do Musescore
+
+Jeanne_dArc_A3.pdf
+	- tisk předchozího do formátu A3, kvůli zhuštění
+
+Jeanne_dArc_print.pdf
+	- samotné zhuštění, zmenšení A3 -> A4
+
+Jeanne_d'Arc_jen_noty.mscz
+	- stejná verze, jen beze slov - chtěli jsme zkusit slova Bright Eyes
+
+Jeanne_d'Arc.mscz
+	- nějaké moje pokusy o úpravu, nepoužité
+
+Jeanne_dArc-Noty_a_party.pdf
+	- tisk předchozho
+
+Johanka.mscz
+Johanka.pdf 
+	- tohle je verze, kterou jsme zpívali 
+	- oproti originálu jen posunutá o jeden tón dolů
+	- začátky slok jako "z horkých polen jde žár" a "nachem barví se kříž" jsou přehozené do jiného hlasu, ale to je detail
